@@ -24,3 +24,10 @@ Latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+I'm a medical doctor and former strategy consultant, now working full-time on biosecurity and pandemic preparedness — through a mix of independent research, project work, and teaching.
+
+Previously, I spent time as a management consultant at the Boston Consulting Group, where I built quantitative models, ran expert interviews, and solved problems for biopharma clients. Before that, I studied medicine at Heidelberg University with a year abroad in Paris, and completed an MD thesis in neuro-oncology.
+
+I've facilitated biosecurity courses at BlueDot Impact, done independent policy research on antimicrobial access in LMICs with the Oxford Biosecurity Group, and started a student-run capacity-building programs at the World Health Summit.
+
+I believe the tools to dramatically reduce the burden of future pandemics already exist or are within reach. I would like to develop and deploy them.
