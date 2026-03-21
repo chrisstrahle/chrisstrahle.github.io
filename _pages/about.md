@@ -32,7 +32,7 @@ Previously, I spent time as a management consultant at the Boston Consulting Gro
 
 I've facilitated biosecurity courses at BlueDot Impact, done independent policy research on antimicrobial access in LMICs with the Oxford Biosecurity Group, and started a student-run capacity-building program at the World Health Summit.
 
-I believe the tools to dramatically reduce the burden of respiratory diseases already exist or are within reach and I think we should develop and deploy them globally. I'm trying to make that happen.
+I believe the tools to dramatically reduce the burden of respiratory diseases are within reach and I think we should develop and deploy them globally. I'm trying to make that happen.
 
 <div class="row justify-content-start">
     <div class="col-sm-8">
