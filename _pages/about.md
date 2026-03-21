@@ -32,7 +32,7 @@ I've facilitated biosecurity courses at BlueDot Impact, done independent policy 
 
 I believe the tools to dramatically reduce the burden of future pandemics already exist or are within reach. I would like to develop and deploy them.
 
-<div class="row justify-content-center">
+<div class="row justify-content-start">
     <div class="col-sm-8">
         {% include figure.liquid path="https://imgs.xkcd.com/comics/eradication.png" title="xkcd 2448: Eradication" class="img-fluid rounded" %}
         <div class="caption">
