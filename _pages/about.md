@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Medical Doctor, ex-BCG Strategy Consultant. Figuring out how to pandemic-proof the world.
+subtitle: Figuring out how to pandemic-proof the world.
 
 profile:
   align: right
@@ -23,16 +23,9 @@ Latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+This website will be the place where I write on things I find interesting. That will likely be a mix of my thinking on pandemic preparedness, meditation and (non-violent) communication - all things that I believe make the world a nicer place.
 
-
-
-I'm a medical doctor and former strategy consultant, now working full-time on biosecurity and pandemic preparedness — through a mix of independent research, project work, and teaching.
-
-Previously, I spent time as a management consultant at the Boston Consulting Group, where I built quantitative models, ran expert interviews, and solved problems for biopharma clients. Before that, I studied medicine at Heidelberg University with a year abroad in Paris, and completed an MD thesis in neuro-oncology.
-
-I've facilitated biosecurity courses at BlueDot Impact, done independent policy research on antimicrobial access in LMICs with the Oxford Biosecurity Group, and started a student-run capacity-building program at the World Health Summit.
-
-I believe the tools to dramatically reduce the burden of respiratory diseases are within reach and I think we should develop and deploy them globally. I'm trying to make that happen.
+I am currently spending most of my time on biosecurity. I believe the tools to dramatically reduce the burden of respiratory diseases are within reach and I think we should develop and deploy them globally. I'm trying, in what small way I can, to make that happen.
 
 <div class="row justify-content-start">
     <div class="col-sm-8">
