@@ -35,5 +35,8 @@ I believe the tools to dramatically reduce the burden of future pandemics alread
 <div class="row justify-content-center">
     <div class="col-sm-8">
         {% include figure.liquid path="https://imgs.xkcd.com/comics/eradication.png" title="xkcd 2448: Eradication" class="img-fluid rounded" %}
+        <div class="caption">
+            Source: <a href="https://xkcd.com/2448/">xkcd 2448</a> by Randall Munroe (CC BY-NC 2.5)
+        </div>
     </div>
 </div>
